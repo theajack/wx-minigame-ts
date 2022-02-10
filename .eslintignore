@@ -1,0 +1,7 @@
+/dist
+.eslintrc.js
+/webpack-config
+
+/game.js
+/src/js/libs
+commitlint.config.js

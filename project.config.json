@@ -46,7 +46,55 @@
     "ignore": [
       {
         "type": "file",
+        "value": "dist/main.min.js.map"
+      },
+      {
+        "type": "file",
+        "value": ".babelrc"
+      },
+      {
+        "type": "file",
+        "value": ".eslintignore"
+      },
+      {
+        "type": "file",
         "value": ".eslintrc.js"
+      },
+      {
+        "type": "file",
+        "value": ".gitignore"
+      },
+      {
+        "type": "file",
+        "value": "commitlint.config.js"
+      },
+      {
+        "type": "file",
+        "value": "package.json"
+      },
+      {
+        "type": "file",
+        "value": "README.md"
+      },
+      {
+        "type": "file",
+        "value": "tsconfig.json"
+      },
+      {
+        "type": "file",
+        "value": "package-lock.json"
+      },
+      {
+        "type": "folder",
+        "value": "node_modules"
+      },
+      {
+        "type": "folder",
+        "value": "src"
+      },
+      {
+        "type": "folder",
+        "value": "webpack-config"
       }
     ]
   },
