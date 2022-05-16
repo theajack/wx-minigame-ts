@@ -9,6 +9,7 @@
 ## 1. 创建小游戏
 
 使用测试号，创建一个使用官方示例的小游戏
+
 ![](https://img-blog.csdnimg.cn/ef398ded317f4bb09e1a4f626aabd5de.png)
 
 会生成一个可以直接运行的打飞机小游戏
